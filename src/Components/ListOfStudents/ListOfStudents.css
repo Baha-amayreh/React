@@ -1,0 +1,19 @@
+table {
+    border-collapse: collapse;
+    width: auto;
+    table-layout: auto;
+    align-items: center;
+    margin-left: 0;
+}
+
+th {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+    background-color: #f2f2f2;
+    font-weight: bold;
+}
+
+td {
+    text-align: left;
+}

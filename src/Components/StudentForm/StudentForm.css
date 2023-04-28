@@ -1,0 +1,60 @@
+.table1 {
+    border-collapse: collapse;
+    width: 70%;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.th1 {
+    border: 1px solid #06f048;
+    padding: 8px;
+    text-align: center;
+    background-color: #cbd0cc;
+    font-weight: bold;
+}
+
+.tr1:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.tr2:hover {
+    background-color: #ddd;
+}
+
+.c1 {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+    font-family: "time new roman";
+}
+
+input {
+    margin: 5px;
+    border: double;
+    border-width: 4px;
+    border-color: green;
+    height: 30px;
+    color: blue;
+    font-family: "time new roman";
+}
+
+#button {
+    margin: 5px;
+    border: double;
+    border-width: 2px;
+    height: 30px;
+    border-color: green;
+    font-family: "time new roman";
+}
+
+select {
+    border: 2px double green;
+    color: blue;
+    font-family: "time new roman";
+}
